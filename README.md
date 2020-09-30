@@ -1,2 +1,2 @@
-# TutorialFromVisualStudios
-This is a web project made from visual studios
+# p5.play-boilerplate
+Boiler plate for p5.play
